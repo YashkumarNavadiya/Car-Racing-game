@@ -1,4 +1,9 @@
-To run this game you need.
-1.python
-2.pygame
-installed in your ( linux ) computer to run interminal type :-python game.py
+This game is made in python.
+
+So you have to download python 3.* to run this game
+
+to run this game you have to install basic requirements of this game for that you have to type command:
+
+pip install pygame
+
+After thay you can run it easily by using command:-   python game.py
